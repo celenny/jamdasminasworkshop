@@ -2,8 +2,8 @@
 Workshop de Git e GitHub ministrado pela [Prof.ª Tatyane Calixto](https://github.com/tatycalixto)
 ----
 - ### Materiais do Workshop
-    ### [Kit de Sobrevivência Git e Github](https://github.com/celenny/jamdasminasworkshop/blob/main/Kit_sobrevivencia_git_e_github.pdf)
-    ### [Passo a Passo](https://github.com/celenny/jamdasminasworkshop/blob/main/Passo_a_passo_Github.pdf)
+    ### [Passo a Passo - GitHub](https://github.com/celenny/jamdasminasworkshop/blob/main/Passo_a_passo_Github.pdf)
+    ### [Kit de Sobrevivência Git e GitHub](https://github.com/celenny/jamdasminasworkshop/blob/main/Kit_sobrevivencia_git_e_github.pdf)
 
 ## 💗 Contribuidoras 👩🏾‍💻<br>
 
