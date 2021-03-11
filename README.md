@@ -1,5 +1,5 @@
 # Jam das Minas 2021
-Workshop de Git e GitHub ministrado pela [Prof.ª Tatyane Calixto](https://github.com/tatycalixto)
+## Workshop de Git e GitHub ministrado pela [Prof.ª Tatyane Calixto](https://github.com/tatycalixto)
 ----
 - ### Materiais do Workshop
     ### [Passo a Passo - GitHub](https://github.com/celenny/jamdasminasworkshop/blob/main/Passo_a_passo_Github.pdf)
